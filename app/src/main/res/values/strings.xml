@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EmployeeAPI_Nav</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_delete">Delete</string>
+
+</resources>
