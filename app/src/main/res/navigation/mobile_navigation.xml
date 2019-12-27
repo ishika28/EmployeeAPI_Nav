@@ -24,7 +24,7 @@
         tools:layout="@layout/fragment_notifications" />
     <fragment
         android:id="@+id/navigation_delete"
-        android:name="com.example.employeeapi_nav.ui.notifications.NotificationsFragment"
+        android:name="com.example.employeeapi_nav.ui.delete.UpdateDeleteFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/update_delete_fragment" />
 </navigation>
